@@ -14,8 +14,8 @@ with `webgl` backend.
 **Setup**
 
 ```bash
-git clone https://github.com/Hyuto/yolov5-tfjs.git
-cd yolov5-tfjs
+git clone https://github.com/Nurtech-UAEU/A-Cloud-Based-3D-Digital-Twin-for-ArSL-Alphabet-Using-Machine-Learning-Object-Detection-Model.git
+cd A-Cloud-Based-3D-Digital-Twin-for-ArSL-Alphabet-Using-Machine-Learning-Object-Detection-Model
 yarn install #Install dependencies
 ```
 
@@ -33,9 +33,10 @@ yarn build # Build for productions
 
 ## Research Paper
 
-[LINK](https://ieeexplore.ieee.org/abstract/document/10366491))
+[LINK](https://ieeexplore.ieee.org/abstract/document/10366491)
 
 ## Reference
 
 https://github.com/Hyuto/yolov5-tfjs
+<br>
 https://github.com/ultralytics/yolov5
