@@ -25,6 +25,8 @@ yarn install #Install dependencies
 yarn start # Start dev server
 yarn build # Build for productions
 ```
+Then open your browser and visit: <br>
+http://localhost:5173/yolov5-tfjs/
 
 ## Model
 
