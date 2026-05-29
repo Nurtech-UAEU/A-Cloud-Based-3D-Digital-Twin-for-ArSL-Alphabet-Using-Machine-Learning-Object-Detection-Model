@@ -8,10 +8,6 @@
 
 ---
 
-[**More Feature Version**](https://hyuto.github.io/showcase/yolov5-tfjs)
-
----
-
 Object Detection application right in your browser. Serving YOLOv5 in browser using tensorflow.js
 with `webgl` backend.
 
